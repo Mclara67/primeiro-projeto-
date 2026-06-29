@@ -13,13 +13,13 @@ h1{
 }
 img{
     width: 20;
-    margin-left:
+    margin-left:755px;
 }
 .img_cabecalho:houver{
     opacity: 0,08;
 }
 header{
     display:flex;
-    background-color: aquargb(73, 67, 160)
-    padding;10px;
+    background-color: rgb(136, 58, 136) (73, 67, 160)
+    padding: 10px;
 }
